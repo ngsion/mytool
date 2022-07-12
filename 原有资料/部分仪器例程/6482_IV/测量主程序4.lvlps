@@ -1,0 +1,31 @@
+[AB_Cache_{6F0D3132-1B09-43F1-B795-D4E4CC83800D}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "910004dc7a1ea6b707040c5cfd28bbb8"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/D/34EXE/漏电流测试/应用程序.exe"
+Cache_GenFile[1][Path] = "/D/34EXE/漏电流测试/应用程序.aliases"
+Cache_GenFile[2][Path] = "/D/34EXE/漏电流测试/应用程序.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{70BAFCE0-7672-4F2F-9E81-94C80176E82B}"
+Cache_GenGUID[1][String] = "{A8DDCB7A-279D-48CF-827F-51022C916FA9}"
+Cache_GenGUID[2][String] = "{1E4D13DE-8377-41B3-ADEA-36BB3A4C4C49}"
+Cache_OutputDir[Path] = "/D/34EXE/漏电流测试"
+
+[AB_Cache_{10A35FBE-02ED-4CC8-8CBF-C322E5619408}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "910004dc7a1ea6b707040c5cfd28bbb8"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/D/34EXE/漏电流测试/应用程序.exe"
+Cache_GenFile[1][Path] = "/D/34EXE/漏电流测试/应用程序.aliases"
+Cache_GenFile[2][Path] = "/D/34EXE/漏电流测试/应用程序.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{70BAFCE0-7672-4F2F-9E81-94C80176E82B}"
+Cache_GenGUID[1][String] = "{A8DDCB7A-279D-48CF-827F-51022C916FA9}"
+Cache_GenGUID[2][String] = "{1E4D13DE-8377-41B3-ADEA-36BB3A4C4C49}"
+Cache_OutputDir[Path] = "/D/34EXE/漏电流测试"
+
+[项目窗口数据(_D)]
+ProjectExplorer.ClassicPosition[String] = "36,4,870,1440"
+

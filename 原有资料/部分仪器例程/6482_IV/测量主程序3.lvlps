@@ -1,0 +1,28 @@
+[AB_Cache_{F39621B4-6027-4C65-898B-56AB23734D19}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "7e20c7f51116b06b3ddfdd558fec4ec9"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/F/builds/测量主程序3/测量主程序/应用程序.exe"
+Cache_GenFile[1][Path] = "/F/builds/测量主程序3/测量主程序/应用程序.aliases"
+Cache_GenFile[2][Path] = "/F/builds/测量主程序3/测量主程序/应用程序.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{EEFFBAFB-7D8E-44DA-942C-40CAC03E6CD3}"
+Cache_GenGUID[1][String] = "{0A7A8F06-C48B-4B36-833A-28007DE26335}"
+Cache_GenGUID[2][String] = "{D816EF36-3EB9-4793-8D91-C8B122A217CF}"
+Cache_OutputDir[Path] = "/F/builds/测量主程序3/测量主程序"
+
+[AB_Cache_{3020340A-B285-4B6A-9BA5-32FCB98F6772}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "7e20c7f51116b06b3ddfdd558fec4ec9"
+Cache_GenFile_Count[Integer] = 3
+Cache_GenFile[0][Path] = "/F/builds/测量主程序3/测量主程序/应用程序.exe"
+Cache_GenFile[1][Path] = "/F/builds/测量主程序3/测量主程序/应用程序.aliases"
+Cache_GenFile[2][Path] = "/F/builds/测量主程序3/测量主程序/应用程序.ini"
+Cache_GenGUID_Count[Integer] = 3
+Cache_GenGUID[0][String] = "{EEFFBAFB-7D8E-44DA-942C-40CAC03E6CD3}"
+Cache_GenGUID[1][String] = "{0A7A8F06-C48B-4B36-833A-28007DE26335}"
+Cache_GenGUID[2][String] = "{D816EF36-3EB9-4793-8D91-C8B122A217CF}"
+Cache_OutputDir[Path] = "/F/builds/测量主程序3/测量主程序"
+
