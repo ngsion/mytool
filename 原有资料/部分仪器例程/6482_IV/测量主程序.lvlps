@@ -1,0 +1,35 @@
+[AB_Cache_{9C8FBABF-8DF3-447B-98BE-18341B0D101F}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "dcc84659f57276f91316874eb36c36b8"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] = "/F/LC-V/LC-V/LC-V.exe"
+Cache_GenFile[1][Path] = "/F/LC-V/LC-V/LC-V.aliases"
+Cache_GenFile[2][Path] = "/F/LC-V/LC-V/LC-V.ini"
+Cache_GenFile[3][Path] = "/F/LC-V/LC-V/LC-V.tlb"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{A0C5BF6D-2DB8-4701-91D8-1B5E112E4E8F}"
+Cache_GenGUID[1][String] = "{28072FA9-F2E8-41FB-B802-0D4B6A7AD6CC}"
+Cache_GenGUID[2][String] = "{B0717C8B-0EAB-48C8-B17A-38A4F6CD6BE7}"
+Cache_GenGUID[3][String] = "{7395D262-D81D-49CA-922C-1C48123852B5}"
+Cache_OutputDir[Path] = "/F/LC-V/LC-V"
+
+[AB_Cache_{86EEE9BB-14F4-4D02-9D22-1E1C80E9D413}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "dcc84659f57276f91316874eb36c36b8"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] = "/F/LC-V/LC-V/LC-V.exe"
+Cache_GenFile[1][Path] = "/F/LC-V/LC-V/LC-V.aliases"
+Cache_GenFile[2][Path] = "/F/LC-V/LC-V/LC-V.ini"
+Cache_GenFile[3][Path] = "/F/LC-V/LC-V/LC-V.tlb"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{A0C5BF6D-2DB8-4701-91D8-1B5E112E4E8F}"
+Cache_GenGUID[1][String] = "{28072FA9-F2E8-41FB-B802-0D4B6A7AD6CC}"
+Cache_GenGUID[2][String] = "{B0717C8B-0EAB-48C8-B17A-38A4F6CD6BE7}"
+Cache_GenGUID[3][String] = "{7395D262-D81D-49CA-922C-1C48123852B5}"
+Cache_OutputDir[Path] = "/F/LC-V/LC-V"
+
+[项目窗口数据(_D)]
+ProjectExplorer.ClassicPosition[String] = "64,42,464,504"
+
